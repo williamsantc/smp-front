@@ -1,0 +1,38 @@
+.d-flex {
+    display: flex;
+    display: -webkit-flex;
+  }
+
+  .align-items-center {
+    align-items: center;
+  }
+
+  .justify-content-center {
+    justify-content: center;
+  }
+
+  .justify-content-between {
+    justify-content: space-between;
+  }
+
+  body {
+    font-family: "Raleway", sans-serif;
+  }
+
+  .app {
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
+
+  .mr-1 {
+    margin-right: 0.5rem;
+  }
+  .mt-1 {
+    margin-top: 0.5rem;
+  }
+
+  .mx-5 {
+    margin-left: 3rem;
+    margin-right: 3rem;
+  }
